@@ -1,8 +1,8 @@
 {
     "openapi": "3.0.0",
     "info": {
-        "title": "API Node.js - Desafio tecnico (Backend)",
-        "description": "API criada para um teste tecnico com node.js",
+        "title": "API Node.js - Desafio técnico (Backend)",
+        "description": "API criada para um teste técnico com node.js",
         "termOfService": "http://localhost:3333/terms",
         "contact": {
             "email": "michelrocha502@gmail.com"

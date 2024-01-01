@@ -1,8 +1,9 @@
-# API Node.js - Desafio Backend
+# Desafio Técnico (BACKEND) - API com Node.js
 
+## Propósito do Projeto
 Esse projeto foi criado para o desafio tecnico proposta para criaçao de uma API com funcionalidade de listagem, inclusão e exclusão de dados.
 
-## Instalação
+## Instalação do Projeto
 
 Certifique-se de ter o Node.js e o npm instalados.
 
@@ -40,8 +41,6 @@ src/
 - routes.ts
 - server.ts
 
-## Documentação da API
-A documentação da API pode ser encontrada [aqui](https://michelrocha-dev.netlify.app)
 
 ## Tecnologias Principais
 - Node.js (Express)
@@ -50,3 +49,8 @@ A documentação da API pode ser encontrada [aqui](https://michelrocha-dev.netli
 - Swagger (para documentação)
 - PostgreSQL
 
+## Documentação da API
+A documentação da API pode ser encontrada [aqui](https://desafio-backend-fd7h.onrender.com/api-docs/)
+
+## Desafio Front: Projeto em React e TypeScript
+[Repositório do projeto](https://github.com/MichelRLima/Desafio-Front)
